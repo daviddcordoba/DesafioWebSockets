@@ -1,0 +1,20 @@
+[
+  {
+    "mail": "cordobalidia08@gmail.com",
+    "msg": "asd",
+    "hora": "[18/10/2022, 11:29:28]",
+    "id": 1
+  },
+  {
+    "mail": "cordobalidia08@gmail.com",
+    "msg": "asd",
+    "hora": "[18/10/2022, 11:29:29]",
+    "id": 2
+  },
+  {
+    "mail": "asda@b.com",
+    "msg": "asdasdasd",
+    "hora": "[18/10/2022, 11:29:46]",
+    "id": 3
+  }
+]
